@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRegistrationForm", "StudentRegistrationForm\StudentRegistrationForm.csproj", "{E704D03E-B555-4C5A-A9BB-58537DA40803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E704D03E-B555-4C5A-A9BB-58537DA40803}.Debug|x86.ActiveCfg = Debug|x86
+		{E704D03E-B555-4C5A-A9BB-58537DA40803}.Debug|x86.Build.0 = Debug|x86
+		{E704D03E-B555-4C5A-A9BB-58537DA40803}.Release|x86.ActiveCfg = Release|x86
+		{E704D03E-B555-4C5A-A9BB-58537DA40803}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

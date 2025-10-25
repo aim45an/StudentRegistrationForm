@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.exe
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.pdb
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\obj\x86\Debug\StudentRegistrationForm.frmRegistration.resources
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\obj\x86\Debug\StudentRegistrationForm.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\obj\x86\Debug\StudentRegistrationForm.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\obj\x86\Debug\StudentRegistrationForm.exe
+c:\users\hp\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\obj\x86\Debug\StudentRegistrationForm.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\StudentRegistrationForm\StudentRegistrationForm\obj\x86\Debug\StudentRegistrationForm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+{txtName.Text}
+{txtEmail.Text}
+{txtPassword.Text}
+{(rdoMale.Checked ? Male : rdoFemale.Checked ? Female : Other)}
+{dtpBirthdate.Value.ToShortDateString()}
+{cmbCountry.SelectedItem?.ToString()}
+{lblSelectedColor.Text.Replace(Selected Color: )}
+{(picStudent.Image != null ? student_picture.jpg : NoImage)}
